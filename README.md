@@ -8,3 +8,9 @@ Este repositório foi criado para praticar Git, GitHub e Markdown.
 - Praticar GitHub
 - Aprender Markdown
 - Trabalhar com colaboração em projetos
+
+## 🛠️ Tecnologias utilizadas
+
+- Git
+- GitHub
+- Markdown
