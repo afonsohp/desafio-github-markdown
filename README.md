@@ -14,3 +14,7 @@ Este repositório foi criado para praticar Git, GitHub e Markdown.
 - Git
 - GitHub
 - Markdown
+
+## 🤝 Colaboração
+
+Este projeto também foi utilizado para praticar colaboração no GitHub, incluindo edição de arquivos, commits e Pull Requests.
